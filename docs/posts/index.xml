@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on emmajane.net</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on emmajane.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 16 Feb 2020 20:57:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Books</title>
+      <link>http://example.org/posts/books/</link>
+      <pubDate>Sun, 16 Feb 2020 20:57:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/books/</guid>
+      <description>Git For Teams Best selling title from O&amp;rsquo;Reilly media. Covers essential skills needed to use Git in a team environment.
+ more about the book complementary material  Collaborating with Git Practical how-to videos to get you, and your team, up and running with Git. A complementary video series for the book, Git for Teams.
+Available from O&amp;rsquo;Reilly media.
+Drupal User&amp;rsquo;s Guide Site building for Drupal 7. Includes in-depth information on Drupal&amp;rsquo;s most popular site building modules, SEO and accessibility.</description>
+    </item>
+    
+    <item>
+      <title>Running</title>
+      <link>http://example.org/posts/running/</link>
+      <pubDate>Sun, 16 Feb 2020 20:57:49 +0000</pubDate>
+      
+      <guid>http://example.org/posts/running/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

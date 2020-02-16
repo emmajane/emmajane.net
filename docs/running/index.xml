@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Runnings on emmajane.net</title>
+    <link>http://example.org/running/</link>
+    <description>Recent content in Runnings on emmajane.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sun, 16 Feb 2020 20:57:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/running/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Pain Cave</title>
+      <link>http://example.org/running/pain-cave/</link>
+      <pubDate>Sun, 16 Feb 2020 20:57:49 +0000</pubDate>
+      
+      <guid>http://example.org/running/pain-cave/</guid>
+      <description>A basic internet search will uncover more than a few articles on The Pain Cave. Since I started running more seriously a few years ago I&amp;rsquo;ve become a little obssed with trying to understand how I could love my own pain cave. I had this idea that if I could just love the pain a little more, maybe I could be a better athlete, able to push a little harder, and achieve a little more.</description>
+    </item>
+    
+  </channel>
+</rss>
