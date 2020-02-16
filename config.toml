@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-uk"
+title = "emmajane.net"
+publishdir = "docs"
+
+theme = "ezhil"
+[params]
+  mode = "dark"
+  mainSections = ["running"]
+  subtitle = "The hardest thing I do each day is imagine who I want to become."
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/emma"
+weight = 2
+
+[[menu.main]]
+name = "Books"
+url = "/about/books"
+weight = 2
+
+[[params.social]]
+name = "instagram"
+icon = "instagram"
+url = "https://instagram.com/emmajane_net"
+
+[[params.social]]
+name = "twitter"
+icon = "twitter"
+url = "https://twitter.com/emmajane_net"
