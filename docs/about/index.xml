@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on emmajane.net</title>
-    <link>http://example.org/about/</link>
+    <link>https://emmajane.github.io/emmajane.net/about/</link>
     <description>Recent content in Abouts on emmajane.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 16 Feb 2020 20:57:49 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emmajane.github.io/emmajane.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Books</title>
-      <link>http://example.org/about/books/</link>
+      <link>https://emmajane.github.io/emmajane.net/about/books/</link>
       <pubDate>Sun, 16 Feb 2020 20:57:49 +0000</pubDate>
       
-      <guid>http://example.org/about/books/</guid>
+      <guid>https://emmajane.github.io/emmajane.net/about/books/</guid>
       <description>In 2014 I released a set of videos with O&amp;rsquo;Reilly: Collaborating with Git. The companion book, Git for Teams, was released September 2015 and is a best seller. My previous books (Drupal User&amp;rsquo;s Guide; and Front End Drupal) and videos (Drupal Fundamentals) were published with Prentice Hall.
 With contributions in Jono Bacon&amp;rsquo;s Linux Desktop Hacks, Earl and Lynette Miles&amp;rsquo; Drupal&amp;rsquo;s Building Blocks, and Shannon Okey&amp;rsquo;s knitting pattern book Alt Fiber, you might say I have a rather diverse (but technical) set of interests.</description>
     </item>
     
     <item>
       <title>About: Emma Jane Hogbin</title>
-      <link>http://example.org/about/emma/</link>
+      <link>https://emmajane.github.io/emmajane.net/about/emma/</link>
       <pubDate>Sun, 16 Feb 2020 08:47:11 +0100</pubDate>
       
-      <guid>http://example.org/about/emma/</guid>
+      <guid>https://emmajane.github.io/emmajane.net/about/emma/</guid>
       <description>Hi! I&amp;rsquo;m an expat Canadian living and working in Yeovil, UK. During the day I manage the Web operations team for the Digital Services team at the Office for the Coordination of Humanitarian Affairs at the United Nations.
 Previously, I&amp;rsquo;ve worked for Phase2, and Lullabot. I&amp;rsquo;ve taught Web technologies at both Seneca Collegeand Humber College, as well as knitting, crochet, and bookbinding classes at various shops in Canada. I have delivered presentations at conferences across North America, Europe, and New Zealand.</description>
     </item>

@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/about/</loc>
     <lastmod>2020-02-16T20:57:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/books/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/about/books/</loc>
     <lastmod>2020-02-16T20:57:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/</loc>
     <lastmod>2020-02-16T20:57:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/running/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/running/</loc>
     <lastmod>2020-02-16T20:57:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/running/pain-cave/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/running/pain-cave/</loc>
     <lastmod>2020-02-16T20:57:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/emma/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/about/emma/</loc>
     <lastmod>2020-02-16T08:47:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://emmajane.github.io/emmajane.net/tags/</loc>
   </url>
   
 </urlset>
