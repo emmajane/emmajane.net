@@ -1,4 +1,4 @@
-baseURL = "https://emmajane.github.io/emmajane.net/"
+baseURL = "https://emmajane.net/"
 languageCode = "en-uk"
 title = "emmajane.net"
 publishdir = "docs"
