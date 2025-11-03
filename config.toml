@@ -18,18 +18,3 @@ weight = 1
 name = "About"
 url = "/about/emma"
 weight = 2
-
-[[menu.main]]
-name = "Books"
-url = "/about/books"
-weight = 2
-
-[[params.social]]
-name = "instagram"
-icon = "instagram"
-url = "https://instagram.com/emmajane_net"
-
-[[params.social]]
-name = "twitter"
-icon = "twitter"
-url = "https://twitter.com/emmajane_net"
